@@ -5,8 +5,8 @@ Here is all the resources you need
 
 ## ⏳ Prerequisite
 You need the following skills to start with
-- [OpenClaw Crash Course] ()
-- [How I use OpenClaw]()
+- [OpenClaw Crash Course](https://youtu.be/nSFVadwOTng?si=jF2vvTOW-jZslSgB)
+- [How I use OpenClaw](https://youtu.be/-MZ7yzZiJsE?si=5T8wg-AtjX0RhdSW)
 
 ## 🎯 Model Options
 - [Claude opus 4.6](https://openrouter.ai/anthropic/claude-opus-4.6)
