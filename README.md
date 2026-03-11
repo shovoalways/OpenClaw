@@ -9,7 +9,7 @@ You need the following skills to start with
 - [How I use OpenClaw]()
 
 ## 🎯 Model Options
-- [Claude opus 4.6](link: https://openrouter.ai/anthropic/claude-opus-4.6)
+- [Claude opus 4.6](https://openrouter.ai/anthropic/claude-opus-4.6)
 - [Minimax](https://openrouter.ai/minimax/minimax-m2.5 )
 - [Kimi k2.5](https://openrouter.ai/moonshotai/kimi-k2.5)
 - [Gemini Flash](https://openrouter.ai/google/gemini-2.5-flash-lite)
@@ -60,7 +60,9 @@ Add these model aliases:
 
 ## 🎯 Sub Agent
 ```bash
-Create a new persistent agent named Rayyan (rayyan) and make him my dedicated coding assistant. Set anthropic/claude-opus-4.6 as his primary model, and use Rayyan for all coding-related tasks. Leave my main agent (you) unchanged, and tell me when Rayyan is ready.
+Create a new persistent agent named Rayyan (rayyan) and make him my dedicated coding assistant.
+Set anthropic/claude-opus-4.6 as his primary model, and use Rayyan for all coding-related tasks.
+Leave my main agent (you) unchanged, and tell me when Rayyan is ready.
 ```
 
 
